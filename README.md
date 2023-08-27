@@ -1,6 +1,6 @@
 # Restaurant Finder - Dicoding Final Project (Menjadi Frontend Developer Expert)
 
-![Restaurant Finder](screenshot.png](https://www.dicoding.com/blog/wp-content/uploads/2014/12/dicoding-header-logo.png)
+![Restaurant Finder](https://www.dicoding.com/blog/wp-content/uploads/2014/12/dicoding-header-logo.png)
 
 Welcome to my final submission for the "Menjadi Front-End Web Developer Expert" course on Dicoding! This project showcases a restaurant website landing page that helps users discover popular restaurants nearby, allowing them to search for restaurants, bookmark their favorites, and even access the website in offline mode through its Progressive Web App (PWA) implementation. The project demonstrates my proficiency in various cutting-edge web technologies including Webpack, Workbox, PWA features, IndexedDB, Web Components, Sharp, SASS, and Vanilla JS, and includes comprehensive End-to-End (E2E) testing to ensure a polished user experience.
 
